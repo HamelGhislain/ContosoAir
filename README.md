@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/activate-devops/ContosoAir/_apis/build/status/HamelGhislain.ContosoAir?branchName=master)](https://dev.azure.com/activate-devops/ContosoAir/_build/latest?definitionId=11&branchName=master)
 
-[![Build Status](https://dev.azure.com/activate01/github-devops-hamel/_apis/build/status/HamelGhislain.ContosoAir?branchName=master)](https://dev.azure.com/activate01/github-devops-hamel/_build/latest?definitionId=6&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
